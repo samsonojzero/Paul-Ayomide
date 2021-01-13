@@ -1,7 +1,7 @@
 ## Full Name
 _Paul Ayomide Oluwagbemiga_
 
-## Email Address
+## Email Addresses of the team
 _paulsure.ayomide@gmail.com_
 
 ## Slack Username
